@@ -1,3 +1,9 @@
-# Anna-Store
+Welcome to PHPUmuna!
+===================
 
-Anna Store helps you slingshot your PHP application with basic Create, Read, Update and Delete (CRUD) functionalities.
+Your delightful start with PHP and MySQL. PHPUmuna is your basic PHP app to start CRUDing with MySQL. Learn to **Create**, **Read**, **Update** and **Delete** database records. It's your training ground to writing awesome PHP applications!
+
+Docs
+-------------
+
+...work in progress
