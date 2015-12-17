@@ -1,9 +1,8 @@
 Welcome to PHPUmuna!
 ===================
 
-Your delightful start with PHP and MySQL. PHPUmuna is your **basic PHP and MySQL** app. Learn to **Create**, **Read**, **Update** and **Delete** database records. It's your training ground to writing awesome PHP applications!
+A dead-simple app to help you learn the basics of PHP and MySQL **hands-on**. Learn the implementation of CRUD: Create, Read, Update and Delete.
 
 Docs
 -------------
 
-...work in progress
