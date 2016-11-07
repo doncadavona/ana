@@ -1,10 +1,11 @@
 #Ana
 
-Ana is a store app written in native PHP and MySQL to help you learn the basics of web development. Learn the implementation of CRUD: Create, Read, Update and Delete.
+Ana is a store app written in native PHP and MySQL to help you learn the basics of web development. Learn the primitive way to implement of CRUD: Create, Read, Update and Delete.
 
 ##Features
 
-* CRUD: Create, Read, Update and Delete store items 
+* Authentication
+* CRUD: Create, Read, Update and Delete store items
 
 ## Setup
 
