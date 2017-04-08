@@ -9,7 +9,7 @@ Ana is a store app written in native PHP and MySQL to help you learn the basics 
 
 ## Setup
 
-* Configure database connections in `/server/db_connection.php`
+* Configure database connections in `/server/db_connect.php`, `/transaction/server/db_connect.php` and `/customer/server/db_connect.php`
 * Create the database
 * Import `database.sql` to that new database
 * Serve and enjoy! I suggest you use XAMPP to host your app locally.
