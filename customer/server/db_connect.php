@@ -9,7 +9,7 @@
 	// Configure database connection
 
 	$db_host 		=	"localhost";	// specify host name | default is "localhost"
-	$db_name 		=	"umunaphp";			// specify database name
+	$db_name 		=	"ana";			// specify database name
 	$db_username 	=	"root";			// specify database username | default is "root"
 	$db_password 	=	"";				// specify database password | leave as blank if database has no password set 
 
